@@ -1,5 +1,5 @@
 # MTCGeohack.112
-Public solution for (MTC Geohack.112)[https://datasouls.com/c/mts-geohack/description]
+Public solution for [MTC Geohack.112](https://datasouls.com/c/mts-geohack/description)
 
 **Задача**
 
